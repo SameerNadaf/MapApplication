@@ -47,35 +47,35 @@ A beginner-friendly SwiftUI-based iOS app that displays predefined location data
 ```
 
 ├── MapApplication.xcodeproj
-    ├── project.pbxproj
-    ├── project.xcworkspace
-    │   └── contents.xcworkspacedata
-    └── xcuserdata
+|   ├── project.pbxproj
+|   ├── project.xcworkspace
+|   │   └── contents.xcworkspacedata
+|   └── xcuserdata
 ├── MapApplication
-    ├── Assets.xcassets
-    │   ├── AccentColor.colorset
-    │   │   └── Contents.json
-    │   ├── AppIcon.appiconset
-    │   ├── Contents.json
-    │   ├── Locations
-    │   │   ├── Contents.json
-    │   │   ├── Paris
-    │   │   └── Rome
-    │   └── Logos
-    ├── ContentView.swift
-    ├── DataServieces
-    │   └── LocationsDataService.swift
-    ├── Info.plist
-    ├── Models
-    │   └── Location.swift
-    ├── ViewModels
-    │   └── LocationsViewModel.swift
-    └── Views
-    │   ├── LocationDetailView.swift
-    │   ├── LocationListView.swift
-    │   ├── LocationMapAnnotationView.swift
-    │   ├── LocationPreviewView.swift
-    │   └── LocationsView.swift
+|   ├── Assets.xcassets
+|   │   ├── AccentColor.colorset
+|   │   │   └── Contents.json
+|   │   ├── AppIcon.appiconset
+|   │   ├── Contents.json
+|   │   ├── Locations
+|   │   │   ├── Contents.json
+|   │   │   ├── Paris
+|   │   │   └── Rome
+|   │   └── Logos
+|   ├── ContentView.swift
+|   ├── DataServieces
+|   │   └── LocationsDataService.swift
+|   ├── Info.plist
+|   ├── Models
+|   │   └── Location.swift
+|   ├── ViewModels
+|   │   └── LocationsViewModel.swift
+|   └── Views
+|   │   ├── LocationDetailView.swift
+|   │   ├── LocationListView.swift
+|   │   ├── LocationMapAnnotationView.swift
+|   │   ├── LocationPreviewView.swift
+|   │   └── LocationsView.swift
 └── MapApplicationApp.swift
 
 ````
