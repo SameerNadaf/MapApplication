@@ -30,14 +30,16 @@ A beginner-friendly SwiftUI-based iOS app that displays predefined location data
 ---
 
 ## 📸 Screenshots  
-### Map View  
-![Map View](Screenshots/map.png)
 
-### Location Info  
-![Location Info](Screenshots/location_info.png)
+### Map View 
+<img src="MapApplication/ScreenShots/Home.png" alt="Home Screen" width="300"/>
+
+### Available Locations  
+<img src="MapApplication/ScreenShots/Locations.png" alt="Locations" width="300"/>
 
 ### Learn More Page  
-![Learn More](Screenshots/learn_more.png)
+<img src="MapApplication/ScreenShots/Details1.png" alt="Details" width="300"/>
+<img src="MapApplication/ScreenShots/Details2.png" alt="Details" width="300"/>
 
 ---
 
